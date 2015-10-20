@@ -1,0 +1,9 @@
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\bin\Debug\p1_swb4062.exe.config
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\bin\Debug\p1_swb4062.exe
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\bin\Debug\p1_swb4062.pdb
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.csprojResolveAssemblyReference.cache
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.Properties.Resources.resources
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.csproj.GenerateResource.Cache
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.exe
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.pdb
+c:\users\stephen\documents\visual studio 2013\Projects\p1_swb4062\p1_swb4062\obj\Debug\p1_swb4062.Calculator.resources
